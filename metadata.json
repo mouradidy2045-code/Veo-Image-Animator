@@ -1,0 +1,5 @@
+{
+  "name": "Veo Image Animator",
+  "description": "Upload an image and animate it into a video using Google's Veo model with customizable aspect ratios.",
+  "requestFramePermissions": []
+}
